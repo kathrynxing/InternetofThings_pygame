@@ -1,0 +1,2 @@
+score = 70
+print ('Score: %s' % (score))
